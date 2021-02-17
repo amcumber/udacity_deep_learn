@@ -130,3 +130,27 @@ dmypy.json
 
 # Examples
 examples/
+course_notebooks/
+
+# Pycharm
+.idea
+
+# Udacity
+jwt
+to_submit/
+*.json
+*.zip
+rejected/
+resources/
+
+## Datasets
+lfw/
+dogImages/
+
+## Pytorch
+*.pt
+*.pth
+# Archives
+*.gz
+data/
+
