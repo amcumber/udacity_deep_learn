@@ -156,4 +156,4 @@ dogImages/
 *.gz
 data/
 old_runs/
-
+*.pkl
